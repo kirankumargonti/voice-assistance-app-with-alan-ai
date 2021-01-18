@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/voice-assistance-app-with-alan-ai/static/js/main.eb5a5b4e.chunk.js",
+    "main.js.map": "/voice-assistance-app-with-alan-ai/static/js/main.eb5a5b4e.chunk.js.map",
+    "runtime-main.js": "/voice-assistance-app-with-alan-ai/static/js/runtime-main.92fed9db.js",
+    "runtime-main.js.map": "/voice-assistance-app-with-alan-ai/static/js/runtime-main.92fed9db.js.map",
+    "static/js/2.477a44a4.chunk.js": "/voice-assistance-app-with-alan-ai/static/js/2.477a44a4.chunk.js",
+    "static/js/2.477a44a4.chunk.js.map": "/voice-assistance-app-with-alan-ai/static/js/2.477a44a4.chunk.js.map",
+    "static/js/3.099270cf.chunk.js": "/voice-assistance-app-with-alan-ai/static/js/3.099270cf.chunk.js",
+    "static/js/3.099270cf.chunk.js.map": "/voice-assistance-app-with-alan-ai/static/js/3.099270cf.chunk.js.map",
+    "index.html": "/voice-assistance-app-with-alan-ai/index.html",
+    "static/js/2.477a44a4.chunk.js.LICENSE.txt": "/voice-assistance-app-with-alan-ai/static/js/2.477a44a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92fed9db.js",
+    "static/js/2.477a44a4.chunk.js",
+    "static/js/main.eb5a5b4e.chunk.js"
+  ]
+}
