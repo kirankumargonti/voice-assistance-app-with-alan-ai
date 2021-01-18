@@ -1,7 +1,7 @@
 # Voice Assistance App with Alan AI
 
 ## Snapshot
-![screenshot](./src/screenshot.jpg)
+![[screenshot](./src/screenshot.jpg)](https://kirankumargonti.github.io/voice-assistance-app-with-alan-ai/)
 
 
 ## Project Setup
